@@ -1,4 +1,6 @@
 hello-world
 ===========
 
-My first repository
+Hi friends!
+Let's start our coding life!
+
